@@ -1,0 +1,168 @@
+body{
+    margin: 0%;
+    text-align: center;
+    color: #000000bb;
+    background-color: #66bfbf;
+}
+hr{
+    width: 4%;
+    border-width: 5px;
+    border-style: dotted none none;
+    color: rgb(39, 172, 172);
+    margin: 100px auto;
+}
+h2{
+    color: #19A7CE;
+    padding-bottom: 10px;
+}
+h3{
+    color: #19A7CE;
+}
+p{
+    line-height: 2;
+}
+
+.cont1
+    {background-color: #f8f7f7;
+   
+}
+.cont1a{
+    height: 140px;
+}
+    .pix{
+        width: 100%;
+        height: 250px;
+    }
+        .clear{
+            width: 35%;
+            float: right;
+            padding-right: 30px;
+         }
+     tr{
+            outline: none;
+            position: relative;
+            left: 400px;
+            height: 200px;
+        }
+        .head{
+            display: block;
+            width: 100%;
+            padding-top: 10px;
+            font-family: 'parisienne', 'cursive';
+            font-size: 2.56rem;
+            margin-left: 20%;
+            
+        }
+        .pg{
+            display: block;
+            padding-top: 10px;
+            width: 100%;
+            font-family: 'parisienne', 'cursive';
+            font-size: 2rem;
+            margin-left: 18%;
+        }
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        
+    .profile{
+        width: 30%;
+        line-height: 2;
+    }
+    .skill-row{
+        width: 58%;
+        margin: 100px auto 150px auto;
+        text-align: left;
+        line-height: 2;
+    }
+    .peg{
+        width: 30%;
+        margin: auto;
+    }
+    .pegs{
+         width: 35%;
+        float: left;
+        margin-right: 30px;
+    }
+    .pegss{
+        width: 35%;
+        float: right;
+        margin-left: 30px;
+    }
+    .pegsss{
+        width: 35%;
+       float: left;
+       margin-right: 30px;
+   }
+   .conta{
+    background-color: #F6F1F1;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 10% 25% 10% 25%;
+   }
+   .p{
+    width: 40%;
+    margin: auto;}
+    .p2{
+        width: 40%;
+        margin: 40px auto 60px;
+    }
+   .cont3{
+    background-color: #66bfbf;
+    font-size: small;
+    margin-bottom: o;
+    padding-top: 24px;
+    padding-bottom: 14px;
+   }
+.footer-link{
+    color: #11999E;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px 20px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: #eaf6f6;
+}
+.p3{
+    color: #eaf6f6;
+}
+   
+
+
+.btn{
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family:'serif', 'cursive' ;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #2BC4AD 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #3D94F6);
+   background-image: -moz-linear-gradient(top, #30E3CB, #3D94F6);
+   background-image: -ms-linear-gradient(top, #30E3CB, #3D94F6);
+   background-image: -o-linear-gradient(top, #30E3CB, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
